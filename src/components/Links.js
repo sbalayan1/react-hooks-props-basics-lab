@@ -1,7 +1,6 @@
 import React from "react";
 
 let Links = (props) => {
-    console.log(props)
     return(
         <div>
             <h3>Links</h3>
